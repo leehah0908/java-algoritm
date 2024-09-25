@@ -1,4 +1,4 @@
-package recursive;
+package DFS;
 
 import java.util.Scanner;
 
